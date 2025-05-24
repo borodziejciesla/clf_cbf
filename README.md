@@ -1,3 +1,6 @@
+[![codecov](https://codecov.io/gh/borodziejciesla/clf_cbf/branch/main/graph/badge.svg)](https://codecov.io/gh/borodziejciesla/clf_cbf)
+
+
 # CLF-CBF Controller
 Dynamical system:
 
